@@ -31,7 +31,7 @@ By using this app, members can access their personalized health profiles anytime
 
 
 
-<img src="https://github.com/prkhrv/Holistic/blob/main/screenshots/s3.jpeg" height="500">&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; <img src="https://github.com/prkhrv/Holistic/blob/main/screenshots/s4.jpeg" height="500">&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; <img src="https://github.com/prkhrv/Holistic/blob/main/screenshots/s5.jpeg" height="500"> 
+<img src="https://github.com/prkhrv/Holistic/blob/main/screenshots/s3.jpeg" height="400">&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; <img src="https://github.com/prkhrv/Holistic/blob/main/screenshots/s4.jpeg" height="400">&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; <img src="https://github.com/prkhrv/Holistic/blob/main/screenshots/s5.jpeg" height="400"> 
 
 ##
 
